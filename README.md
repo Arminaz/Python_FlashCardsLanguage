@@ -19,4 +19,4 @@ This project consists of a simple Python application for creating and using flas
 ## Customizing for Other Languages
 To use this project for a language other than Arabic, simply modify the data files to include the relevant terms and translations for your target language.
 
-We hope this flash card tool enhances your language learning experience!
+I hope this flash card tool enhances your language learning experience!
